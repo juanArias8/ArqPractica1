@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20/02/2017, 08:53:18 PM
+    Author     : jnda
+*/
+
+#body{
+    height: 100vh;
+    width: 96%;
+    padding: 1%;
+    margin: 1%;
+    background: url(http://retrocarsspain.com/wp-content/uploads/2015/07/classic-cars-wallpaper-hd-wallpaper-classic-hd-direct-download-for-iphone-ipad-borders-free-naruto-mobile-3d-1024x640.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 20px;
+}
+
+#fter{
+    height: 12%;
+    width: 100%;
+    background-color: rgba(255,255,255,0.7);
+    text-align: center;
+    display: inline-block;
+    margin-top: 3%;
+    border-radius: 20%;
+    margin-top: 20%;
+}

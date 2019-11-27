@@ -1,0 +1,147 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20/02/2017, 08:53:07 PM
+    Author     : jnda
+*/
+
+#body{
+    height: 100vh;
+    width: 96%;
+    padding: 1%;
+    margin: 1%;
+    background: url(http://retrocarsspain.com/wp-content/uploads/2015/07/classic-cars-wallpaper-hd-wallpaper-classic-hd-direct-download-for-iphone-ipad-borders-free-naruto-mobile-3d-1024x640.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 20px;
+}
+
+
+#fter{
+    height: 12%;
+    width: 100%;
+    background-color: rgba(255,255,255,0.7);
+    text-align: center;
+    display: inline-block;
+    margin-top: 1%;
+    border-radius: 20%;
+}
+
+#contenido{
+    align-content: center;
+    width: 100%;
+    height: 76%;
+    background-color: rgba(255,255,255,0.7);
+    border-radius: 15px;
+    overflow: scroll;
+}
+
+.ds{
+    padding-top: 8%;
+    padding-bottom: 8%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    font-size: 150%;
+}
+
+h1{
+    text-align: center;
+}
+
+table {     
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 12px;    
+    width: 96%;
+    height: 90%;
+    text-align: center;    
+    border-collapse: collapse; 
+    border-left: 1px solid black;
+    border-right:  1px solid black;
+    table-layout: fixed;
+    margin: 2%;
+}
+
+th {     
+    font-size: 150%;     
+    font-weight: normal;     
+    padding: 0.7%;     
+    background: rgba(0,0,0,0.5);
+    border-top: 1px solid black;    
+    border-bottom: 1px solid black; 
+    color: black; 
+}
+
+td {    
+    padding: 0.7%;     
+    background: white;     
+    border-top: 1px solid black;    
+    border-bottom: 1px solid black; ;
+    color: black;    
+    max-height: 10%;
+    min-height: 10%;
+    height: 10%;
+}
+
+.tv, .td{
+    width: 10%;
+}
+
+tr:hover td { 
+    background: #d0dafd; 
+    color: #339; 
+}
+
+.evt{
+    text-decoration:none;
+    width: 90%;
+    height: 15%;
+    color:white;
+    background:rgba(0,0,0,0.8);
+    text-align: center;
+    text-decoration: none;
+    font-size: 100%;
+    font-family: sans-serif, "Tahoma", "Geneva" ;
+    float:left;
+    overflow: hidden;
+    padding: 5%;
+    border-radius: 2px;
+}
+
+.evt:hover{
+     background: #3ead47;
+}
+
+.a2{
+    text-decoration:none;
+    width: 15%;
+    height: 5%;
+    color:white;
+    background:rgba(0,0,0,0.8);
+    text-align: center;
+    text-decoration: none;
+    font-size: 100%;
+    font-family: sans-serif, "Tahoma", "Geneva" ;
+    float:left;
+    overflow: hidden;
+    padding: 0.5%;
+    margin-left: 16%;
+    border-radius: 2px;
+    margin-bottom: 1%;
+}
+
+.a2:hover{
+    background: #3ead47;
+}
+
+.it{
+    height: 80%;
+    border-radius: 10px;
+     background-color:rgba(213, 216, 220, 1);
+     text-align: center;
+     font-size: 100%;
+     margin-left: 2%;
+     margin-top: 0.5%;
+}

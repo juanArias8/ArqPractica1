@@ -1,0 +1,88 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19/02/2017, 09:30:10 PM
+    Author     : jnda
+*/
+
+#body{
+    height: 100vh;
+    width: 96%;
+    padding: 1%;
+    margin: 1%;
+    background: url(http://retrocarsspain.com/wp-content/uploads/2015/07/classic-cars-wallpaper-hd-wallpaper-classic-hd-direct-download-for-iphone-ipad-borders-free-naruto-mobile-3d-1024x640.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 20px;
+}
+
+#fter{
+    height: 12%;
+    width: 100%;
+    background-color: rgba(255,255,255,0.7);
+    text-align: center;
+    display: inline-block;
+    margin-top: 5%;
+    border-radius: 20%;
+    margin-top: 19%;
+}
+
+#msg{
+    text-align: center;
+    margin-left: 25%;
+}
+
+.contenido{
+    background-color: rgba(255,255,255,0.9);
+    width: 40%;
+    height: 41%;
+    border-radius: 15px;
+    float:left;
+    margin-left: 55%;
+}
+
+table{
+    border-style: double;
+    width: 80%;
+    height: 15vh;
+    margin-left: 10%;
+}
+
+th{
+    width: 40%;
+}
+
+h1{
+    text-align: center;
+}
+
+hr{
+    margin: 2%;
+}
+
+.it{
+    height: 80%;
+    border-radius: 10px;
+     background-color:rgba(213, 216, 220, 1);
+     text-align: center;
+     font-size: 100%;
+}
+
+.is{
+    margin-top: 2%;
+    margin-left: 12%;
+    width: 32%;
+    height: 5vh;
+    margin-bottom: 3%;
+    font-family: sans-serif, "Tahoma", "Geneva" ;
+    background:rgba(0,0,0,0.5);
+    border-radius: 5px;
+    font-size: 100%;
+}
+.is:hover{
+    background: #3ead47;
+    cursor:pointer;
+}

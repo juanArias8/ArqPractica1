@@ -1,0 +1,130 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28/02/2017, 12:50:18 AM
+    Author     : jnda
+*/
+
+#body{
+    height: 100vh;
+    width: 96%;
+    padding: 1%;
+    margin: 1%;
+    background: url(http://retrocarsspain.com/wp-content/uploads/2015/07/classic-cars-wallpaper-hd-wallpaper-classic-hd-direct-download-for-iphone-ipad-borders-free-naruto-mobile-3d-1024x640.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 20px;
+}
+
+#fter{
+    height: 12%;
+    width: 100%;
+    background-color: rgba(255,255,255,0.7);
+    text-align: center;
+    display: inline-block;
+    margin-top: 2%;
+    border-radius: 20%;
+    margin-left: 2%;
+}
+
+#pa{
+    color:red;
+    text-align: center;
+}
+
+#imagenCargada{
+    background-color: rgba(255,255,255,0.8);
+    width: 25%;
+    height: 30%;
+    border-radius: 15px;
+    position: fixed;
+    top: 40%;
+    text-align: center;
+    padding: 2%;
+    padding-top: 3%;
+    right: 60%;
+}
+
+#contenido{
+    background-color: rgba(255,255,255,0.9);
+    width: 50%;
+    height: 71%;
+    border-radius: 15px;
+    float:left;
+    margin-left: 40%;
+}
+
+#inFile{
+    text-decoration:none;
+    color:white;
+    background:rgba(0,0,0,0.8);
+    text-align: center;
+    text-decoration: none;
+    font-family: sans-serif, "Tahoma", "Geneva" ;
+    border-radius: 2px;
+}
+
+#inFile:hover{
+    background: #3ead47;
+}
+
+.a3 {
+    margin-left: 10%;
+    width: 80%;
+    height: 100%;
+    margin-bottom: 3%;
+    font-family: sans-serif, "Tahoma", "Geneva" ;
+    background:rgba(0,0,0,0.1);
+    border-radius: 5px; font-size: 100%;
+}
+.a3:hover{
+    background: #3ead47;
+    cursor:pointer;
+}
+
+table{
+    border-style: double;
+    width: 80%;
+    height: 20vh;
+    margin-left: 10%;
+    padding: 5%;
+}
+
+th{
+    padding: 1.5%;
+}
+
+h1{
+    text-align: center;
+}
+
+hr{
+    margin: 2%;
+}
+
+.it{
+    height: 100%;
+    border-radius: 10px;
+    background-color:rgba(213, 216, 220, 1);
+    text-align: center; 
+    font-size: 100%;
+}
+
+.is{
+    margin-top: 2%;
+    margin-left: 12%;
+    width: 32%;
+    height: 5vh;
+    margin-bottom: 3%;
+    font-family: sans-serif, "Tahoma", "Geneva" ;
+    background:rgba(0,0,0,0.5);
+    border-radius: 5px;
+    font-size: 100%; 
+}
+.is:hover{
+    background: #3ead47;
+    cursor:pointer;
+}
